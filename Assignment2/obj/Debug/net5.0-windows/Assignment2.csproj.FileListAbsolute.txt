@@ -1,0 +1,92 @@
+C:\Users\Computer\Documents\GitHub\data-access-teknikhogskolan-uddevalla-2021\Inlämning 2 - Nätverksprogram\Assignment2\Assignment2\bin\Debug\net5.0-windows\Assignment2.exe
+C:\Users\Computer\Documents\GitHub\data-access-teknikhogskolan-uddevalla-2021\Inlämning 2 - Nätverksprogram\Assignment2\Assignment2\bin\Debug\net5.0-windows\SampleFeeds.txt
+C:\Users\Computer\Documents\GitHub\data-access-teknikhogskolan-uddevalla-2021\Inlämning 2 - Nätverksprogram\Assignment2\Assignment2\bin\Debug\net5.0-windows\Assignment2.deps.json
+C:\Users\Computer\Documents\GitHub\data-access-teknikhogskolan-uddevalla-2021\Inlämning 2 - Nätverksprogram\Assignment2\Assignment2\bin\Debug\net5.0-windows\Assignment2.runtimeconfig.json
+C:\Users\Computer\Documents\GitHub\data-access-teknikhogskolan-uddevalla-2021\Inlämning 2 - Nätverksprogram\Assignment2\Assignment2\bin\Debug\net5.0-windows\Assignment2.runtimeconfig.dev.json
+C:\Users\Computer\Documents\GitHub\data-access-teknikhogskolan-uddevalla-2021\Inlämning 2 - Nätverksprogram\Assignment2\Assignment2\bin\Debug\net5.0-windows\Assignment2.dll
+C:\Users\Computer\Documents\GitHub\data-access-teknikhogskolan-uddevalla-2021\Inlämning 2 - Nätverksprogram\Assignment2\Assignment2\bin\Debug\net5.0-windows\ref\Assignment2.dll
+C:\Users\Computer\Documents\GitHub\data-access-teknikhogskolan-uddevalla-2021\Inlämning 2 - Nätverksprogram\Assignment2\Assignment2\bin\Debug\net5.0-windows\Assignment2.pdb
+C:\Users\Computer\Documents\GitHub\data-access-teknikhogskolan-uddevalla-2021\Inlämning 2 - Nätverksprogram\Assignment2\Assignment2\obj\Debug\net5.0-windows\Assignment2.csprojAssemblyReference.cache
+C:\Users\Computer\Documents\GitHub\data-access-teknikhogskolan-uddevalla-2021\Inlämning 2 - Nätverksprogram\Assignment2\Assignment2\obj\Debug\net5.0-windows\MainWindow.g.cs
+C:\Users\Computer\Documents\GitHub\data-access-teknikhogskolan-uddevalla-2021\Inlämning 2 - Nätverksprogram\Assignment2\Assignment2\obj\Debug\net5.0-windows\App.g.cs
+C:\Users\Computer\Documents\GitHub\data-access-teknikhogskolan-uddevalla-2021\Inlämning 2 - Nätverksprogram\Assignment2\Assignment2\obj\Debug\net5.0-windows\Assignment2_MarkupCompile.cache
+C:\Users\Computer\Documents\GitHub\data-access-teknikhogskolan-uddevalla-2021\Inlämning 2 - Nätverksprogram\Assignment2\Assignment2\obj\Debug\net5.0-windows\Assignment2_MarkupCompile.lref
+C:\Users\Computer\Documents\GitHub\data-access-teknikhogskolan-uddevalla-2021\Inlämning 2 - Nätverksprogram\Assignment2\Assignment2\obj\Debug\net5.0-windows\MainWindow.baml
+C:\Users\Computer\Documents\GitHub\data-access-teknikhogskolan-uddevalla-2021\Inlämning 2 - Nätverksprogram\Assignment2\Assignment2\obj\Debug\net5.0-windows\Assignment2.g.resources
+C:\Users\Computer\Documents\GitHub\data-access-teknikhogskolan-uddevalla-2021\Inlämning 2 - Nätverksprogram\Assignment2\Assignment2\obj\Debug\net5.0-windows\Assignment2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Computer\Documents\GitHub\data-access-teknikhogskolan-uddevalla-2021\Inlämning 2 - Nätverksprogram\Assignment2\Assignment2\obj\Debug\net5.0-windows\Assignment2.AssemblyInfoInputs.cache
+C:\Users\Computer\Documents\GitHub\data-access-teknikhogskolan-uddevalla-2021\Inlämning 2 - Nätverksprogram\Assignment2\Assignment2\obj\Debug\net5.0-windows\Assignment2.AssemblyInfo.cs
+C:\Users\Computer\Documents\GitHub\data-access-teknikhogskolan-uddevalla-2021\Inlämning 2 - Nätverksprogram\Assignment2\Assignment2\obj\Debug\net5.0-windows\Assignment2.csproj.CoreCompileInputs.cache
+C:\Users\Computer\Documents\GitHub\data-access-teknikhogskolan-uddevalla-2021\Inlämning 2 - Nätverksprogram\Assignment2\Assignment2\obj\Debug\net5.0-windows\Assignment2.dll
+C:\Users\Computer\Documents\GitHub\data-access-teknikhogskolan-uddevalla-2021\Inlämning 2 - Nätverksprogram\Assignment2\Assignment2\obj\Debug\net5.0-windows\ref\Assignment2.dll
+C:\Users\Computer\Documents\GitHub\data-access-teknikhogskolan-uddevalla-2021\Inlämning 2 - Nätverksprogram\Assignment2\Assignment2\obj\Debug\net5.0-windows\Assignment2.pdb
+C:\Users\Computer\Documents\GitHub\data-access-teknikhogskolan-uddevalla-2021\Inlämning 2 - Nätverksprogram\Assignment2\Assignment2\obj\Debug\net5.0-windows\Assignment2.genruntimeconfig.cache
+C:\Users\Computer\Desktop\Assignment2\Assignment2\bin\Debug\net5.0-windows\Assignment2.exe
+C:\Users\Computer\Desktop\Assignment2\Assignment2\bin\Debug\net5.0-windows\SampleFeeds.txt
+C:\Users\Computer\Desktop\Assignment2\Assignment2\bin\Debug\net5.0-windows\Assignment2.deps.json
+C:\Users\Computer\Desktop\Assignment2\Assignment2\bin\Debug\net5.0-windows\Assignment2.runtimeconfig.json
+C:\Users\Computer\Desktop\Assignment2\Assignment2\bin\Debug\net5.0-windows\Assignment2.runtimeconfig.dev.json
+C:\Users\Computer\Desktop\Assignment2\Assignment2\bin\Debug\net5.0-windows\Assignment2.dll
+C:\Users\Computer\Desktop\Assignment2\Assignment2\bin\Debug\net5.0-windows\ref\Assignment2.dll
+C:\Users\Computer\Desktop\Assignment2\Assignment2\bin\Debug\net5.0-windows\Assignment2.pdb
+C:\Users\Computer\Desktop\Assignment2\Assignment2\obj\Debug\net5.0-windows\Assignment2.csprojAssemblyReference.cache
+C:\Users\Computer\Desktop\Assignment2\Assignment2\obj\Debug\net5.0-windows\MainWindow.g.cs
+C:\Users\Computer\Desktop\Assignment2\Assignment2\obj\Debug\net5.0-windows\App.g.cs
+C:\Users\Computer\Desktop\Assignment2\Assignment2\obj\Debug\net5.0-windows\Assignment2_MarkupCompile.cache
+C:\Users\Computer\Desktop\Assignment2\Assignment2\obj\Debug\net5.0-windows\Assignment2_MarkupCompile.lref
+C:\Users\Computer\Desktop\Assignment2\Assignment2\obj\Debug\net5.0-windows\MainWindow.baml
+C:\Users\Computer\Desktop\Assignment2\Assignment2\obj\Debug\net5.0-windows\Assignment2.g.resources
+C:\Users\Computer\Desktop\Assignment2\Assignment2\obj\Debug\net5.0-windows\Assignment2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Computer\Desktop\Assignment2\Assignment2\obj\Debug\net5.0-windows\Assignment2.AssemblyInfoInputs.cache
+C:\Users\Computer\Desktop\Assignment2\Assignment2\obj\Debug\net5.0-windows\Assignment2.AssemblyInfo.cs
+C:\Users\Computer\Desktop\Assignment2\Assignment2\obj\Debug\net5.0-windows\Assignment2.csproj.CoreCompileInputs.cache
+C:\Users\Computer\Desktop\Assignment2\Assignment2\obj\Debug\net5.0-windows\Assignment2.dll
+C:\Users\Computer\Desktop\Assignment2\Assignment2\obj\Debug\net5.0-windows\ref\Assignment2.dll
+C:\Users\Computer\Desktop\Assignment2\Assignment2\obj\Debug\net5.0-windows\Assignment2.pdb
+C:\Users\Computer\Desktop\Assignment2\Assignment2\obj\Debug\net5.0-windows\Assignment2.genruntimeconfig.cache
+C:\Users\Jörgen\Desktop\.NET utbildning\Inlämningsuppgift2\Network-program\Assignment2\bin\Debug\net5.0-windows\Assignment2.exe
+C:\Users\Jörgen\Desktop\.NET utbildning\Inlämningsuppgift2\Network-program\Assignment2\bin\Debug\net5.0-windows\SampleFeeds.txt
+C:\Users\Jörgen\Desktop\.NET utbildning\Inlämningsuppgift2\Network-program\Assignment2\bin\Debug\net5.0-windows\Assignment2.deps.json
+C:\Users\Jörgen\Desktop\.NET utbildning\Inlämningsuppgift2\Network-program\Assignment2\bin\Debug\net5.0-windows\Assignment2.runtimeconfig.json
+C:\Users\Jörgen\Desktop\.NET utbildning\Inlämningsuppgift2\Network-program\Assignment2\bin\Debug\net5.0-windows\Assignment2.runtimeconfig.dev.json
+C:\Users\Jörgen\Desktop\.NET utbildning\Inlämningsuppgift2\Network-program\Assignment2\bin\Debug\net5.0-windows\Assignment2.dll
+C:\Users\Jörgen\Desktop\.NET utbildning\Inlämningsuppgift2\Network-program\Assignment2\bin\Debug\net5.0-windows\ref\Assignment2.dll
+C:\Users\Jörgen\Desktop\.NET utbildning\Inlämningsuppgift2\Network-program\Assignment2\bin\Debug\net5.0-windows\Assignment2.pdb
+C:\Users\Jörgen\Desktop\.NET utbildning\Inlämningsuppgift2\Network-program\Assignment2\obj\Debug\net5.0-windows\Assignment2.csproj.AssemblyReference.cache
+C:\Users\Jörgen\Desktop\.NET utbildning\Inlämningsuppgift2\Network-program\Assignment2\obj\Debug\net5.0-windows\MainWindow.g.cs
+C:\Users\Jörgen\Desktop\.NET utbildning\Inlämningsuppgift2\Network-program\Assignment2\obj\Debug\net5.0-windows\App.g.cs
+C:\Users\Jörgen\Desktop\.NET utbildning\Inlämningsuppgift2\Network-program\Assignment2\obj\Debug\net5.0-windows\Assignment2_MarkupCompile.cache
+C:\Users\Jörgen\Desktop\.NET utbildning\Inlämningsuppgift2\Network-program\Assignment2\obj\Debug\net5.0-windows\Assignment2_MarkupCompile.lref
+C:\Users\Jörgen\Desktop\.NET utbildning\Inlämningsuppgift2\Network-program\Assignment2\obj\Debug\net5.0-windows\MainWindow.baml
+C:\Users\Jörgen\Desktop\.NET utbildning\Inlämningsuppgift2\Network-program\Assignment2\obj\Debug\net5.0-windows\Assignment2.g.resources
+C:\Users\Jörgen\Desktop\.NET utbildning\Inlämningsuppgift2\Network-program\Assignment2\obj\Debug\net5.0-windows\Assignment2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jörgen\Desktop\.NET utbildning\Inlämningsuppgift2\Network-program\Assignment2\obj\Debug\net5.0-windows\Assignment2.AssemblyInfoInputs.cache
+C:\Users\Jörgen\Desktop\.NET utbildning\Inlämningsuppgift2\Network-program\Assignment2\obj\Debug\net5.0-windows\Assignment2.AssemblyInfo.cs
+C:\Users\Jörgen\Desktop\.NET utbildning\Inlämningsuppgift2\Network-program\Assignment2\obj\Debug\net5.0-windows\Assignment2.csproj.CoreCompileInputs.cache
+C:\Users\Jörgen\Desktop\.NET utbildning\Inlämningsuppgift2\Network-program\Assignment2\obj\Debug\net5.0-windows\Assignment2.dll
+C:\Users\Jörgen\Desktop\.NET utbildning\Inlämningsuppgift2\Network-program\Assignment2\obj\Debug\net5.0-windows\ref\Assignment2.dll
+C:\Users\Jörgen\Desktop\.NET utbildning\Inlämningsuppgift2\Network-program\Assignment2\obj\Debug\net5.0-windows\Assignment2.pdb
+C:\Users\Jörgen\Desktop\.NET utbildning\Inlämningsuppgift2\Network-program\Assignment2\obj\Debug\net5.0-windows\Assignment2.genruntimeconfig.cache
+C:\Users\Computer\Documents\GitHub\Network-program\Assignment2\bin\Debug\net5.0-windows\Assignment2.exe
+C:\Users\Computer\Documents\GitHub\Network-program\Assignment2\bin\Debug\net5.0-windows\SampleFeeds.txt
+C:\Users\Computer\Documents\GitHub\Network-program\Assignment2\bin\Debug\net5.0-windows\Assignment2.deps.json
+C:\Users\Computer\Documents\GitHub\Network-program\Assignment2\bin\Debug\net5.0-windows\Assignment2.runtimeconfig.json
+C:\Users\Computer\Documents\GitHub\Network-program\Assignment2\bin\Debug\net5.0-windows\Assignment2.runtimeconfig.dev.json
+C:\Users\Computer\Documents\GitHub\Network-program\Assignment2\bin\Debug\net5.0-windows\Assignment2.dll
+C:\Users\Computer\Documents\GitHub\Network-program\Assignment2\bin\Debug\net5.0-windows\ref\Assignment2.dll
+C:\Users\Computer\Documents\GitHub\Network-program\Assignment2\bin\Debug\net5.0-windows\Assignment2.pdb
+C:\Users\Computer\Documents\GitHub\Network-program\Assignment2\obj\Debug\net5.0-windows\Assignment2.csprojAssemblyReference.cache
+C:\Users\Computer\Documents\GitHub\Network-program\Assignment2\obj\Debug\net5.0-windows\MainWindow.g.cs
+C:\Users\Computer\Documents\GitHub\Network-program\Assignment2\obj\Debug\net5.0-windows\App.g.cs
+C:\Users\Computer\Documents\GitHub\Network-program\Assignment2\obj\Debug\net5.0-windows\Assignment2_MarkupCompile.cache
+C:\Users\Computer\Documents\GitHub\Network-program\Assignment2\obj\Debug\net5.0-windows\Assignment2_MarkupCompile.lref
+C:\Users\Computer\Documents\GitHub\Network-program\Assignment2\obj\Debug\net5.0-windows\MainWindow.baml
+C:\Users\Computer\Documents\GitHub\Network-program\Assignment2\obj\Debug\net5.0-windows\Assignment2.g.resources
+C:\Users\Computer\Documents\GitHub\Network-program\Assignment2\obj\Debug\net5.0-windows\Assignment2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Computer\Documents\GitHub\Network-program\Assignment2\obj\Debug\net5.0-windows\Assignment2.AssemblyInfoInputs.cache
+C:\Users\Computer\Documents\GitHub\Network-program\Assignment2\obj\Debug\net5.0-windows\Assignment2.AssemblyInfo.cs
+C:\Users\Computer\Documents\GitHub\Network-program\Assignment2\obj\Debug\net5.0-windows\Assignment2.csproj.CoreCompileInputs.cache
+C:\Users\Computer\Documents\GitHub\Network-program\Assignment2\obj\Debug\net5.0-windows\Assignment2.dll
+C:\Users\Computer\Documents\GitHub\Network-program\Assignment2\obj\Debug\net5.0-windows\ref\Assignment2.dll
+C:\Users\Computer\Documents\GitHub\Network-program\Assignment2\obj\Debug\net5.0-windows\Assignment2.pdb
+C:\Users\Computer\Documents\GitHub\Network-program\Assignment2\obj\Debug\net5.0-windows\Assignment2.genruntimeconfig.cache
